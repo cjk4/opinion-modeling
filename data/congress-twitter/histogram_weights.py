@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Aug  4 10:41:58 2023
+"""histogram_weights.py
+Code to replicate Fig. 2B from "A centrality measure for
+quantifying spread on weighted, directed networks"
 
-@author: finkt
+@author Christian G. Fink
+@date 8/4/23
 """
 
 import json
