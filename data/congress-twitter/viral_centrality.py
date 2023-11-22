@@ -1,12 +1,4 @@
-# -*- coding: utf-8 -*-
-"""viral_centrality.py
-Viral centrality measure function for quantifying spread
-on weighted, directed networks
-Used by compute_vc.py
 
-@author Christian G. Fink
-@date 6/15/23
-"""
 import numpy as np
 
 def viral_centrality(inList, inWeight, outList, Niter = 5, beta = 1.0, tol = 0.0001):  

@@ -1,13 +1,12 @@
 # -*- coding: utf-8 -*-
-"""compute_vc.py
-Code to implement the Viral Centrality measure to replicate
-the Viral Centrality portion of Fig. 2A from"A centrality
-measure for quantifying spread on weighted, directed networks"
-Uses the function in viral_centrality.py
-
-@author Christian G. Fink
-@date 7/15/23
 """
+Created on Fri Sep 30 10:39:37 2022
+
+@author: finkt
+"""
+import sys
+import os
+
 from viral_centrality import viral_centrality
 import json
 import numpy as np
