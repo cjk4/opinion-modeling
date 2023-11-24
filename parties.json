@@ -1,0 +1,1902 @@
+[
+  {
+    "handle": "Senator Baldwin",
+    "party": "D"
+  },
+  {
+    "handle": "Sen John Barrasso",
+    "party": "R"
+  },
+  {
+    "handle": "Senator Bennet",
+    "party": "D"
+  },
+  {
+    "handle": "Marsha Blackburn",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Blumenthal",
+    "party": "D"
+  },
+  {
+    "handle": "Roy Blunt",
+    "party": "R"
+  },
+  {
+    "handle": "Cory Booker",
+    "party": "D"
+  },
+  {
+    "handle": "John Boozman",
+    "party": "R"
+  },
+  {
+    "handle": "Senator Braun",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Sherrod Brown",
+    "party": "D"
+  },
+  {
+    "handle": "Senator Cantwell",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Capito",
+    "party": "R"
+  },
+  {
+    "handle": "Senator Cardin",
+    "party": "D"
+  },
+  {
+    "handle": "Senator Carper",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Bob Casey",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Bill Cassidy",
+    "party": "R"
+  },
+  {
+    "handle": "Chris Coons",
+    "party": "D"
+  },
+  {
+    "handle": "John Cornyn",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Cortez Masto",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Tom Cotton",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Kevin Cramer",
+    "party": "R"
+  },
+  {
+    "handle": "Mike Crapo",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Ted Cruz",
+    "party": "R"
+  },
+  {
+    "handle": "Steve Daines",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Duckworth",
+    "party": "D"
+  },
+  {
+    "handle": "Senator Durbin",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Joni Ernst",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Feinstein",
+    "party": "D"
+  },
+  {
+    "handle": "Senator Fischer",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Gillibrand",
+    "party": "D"
+  },
+  {
+    "handle": "Lindsey Graham S C",
+    "party": "R"
+  },
+  {
+    "handle": "Chuck Grassley",
+    "party": "R"
+  },
+  {
+    "handle": "Senator Hagerty",
+    "party": "R"
+  },
+  {
+    "handle": "Senator Hassan",
+    "party": "D"
+  },
+  {
+    "handle": "Hawley M O",
+    "party": "R"
+  },
+  {
+    "handle": "Martin Heinrich",
+    "party": "D"
+  },
+  {
+    "handle": "Senator Hick",
+    "party": "D"
+  },
+  {
+    "handle": "Mazie Hirono",
+    "party": "D"
+  },
+  {
+    "handle": "Sen John Hoeven",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Hyde Smith",
+    "party": "R"
+  },
+  {
+    "handle": "Jim Inhofe",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Ron Johnson",
+    "party": "R"
+  },
+  {
+    "handle": "Tim Kaine",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Mark Kelly",
+    "party": "D"
+  },
+  {
+    "handle": "Sen John Kennedy",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Angus King",
+    "party": "I"
+  },
+  {
+    "handle": "Sen Amy Klobuchar",
+    "party": "D"
+  },
+  {
+    "handle": "Senator Lankford",
+    "party": "R"
+  },
+  {
+    "handle": "Senator Leahy",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Mike Lee",
+    "party": "R"
+  },
+  {
+    "handle": "Senator Lujan",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Lummis",
+    "party": ""
+  },
+  {
+    "handle": "Sen Joe Manchin",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Markey",
+    "party": "D"
+  },
+  {
+    "handle": "Senator Menendez",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Jeff Merkley",
+    "party": "D"
+  },
+  {
+    "handle": "Jerry Moran",
+    "party": "R"
+  },
+  {
+    "handle": "Lisa Murkowski",
+    "party": "R"
+  },
+  {
+    "handle": "Chris Murphy C T",
+    "party": "D"
+  },
+  {
+    "handle": "Patty Murray",
+    "party": "D"
+  },
+  {
+    "handle": "Jon Ossoff",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Alex Padilla",
+    "party": "D"
+  },
+  {
+    "handle": "Rand Paul",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Gary Peters",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Rob Portman",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Jack Reed",
+    "party": "D"
+  },
+  {
+    "handle": "Senator Risch",
+    "party": "R"
+  },
+  {
+    "handle": "Senator Romney",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Jacky Rosen",
+    "party": "D"
+  },
+  {
+    "handle": "Marco Rubio",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Sanders",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Schumer",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Rick Scott",
+    "party": "R"
+  },
+  {
+    "handle": "Senator Tim Scott",
+    "party": "R"
+  },
+  {
+    "handle": "Senator Shaheen",
+    "party": "D"
+  },
+  {
+    "handle": "Senator Sinema",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Tina Smith",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Stabenow",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Dan Sullivan",
+    "party": "R"
+  },
+  {
+    "handle": "Senator Tester",
+    "party": "D"
+  },
+  {
+    "handle": "Sen John Thune",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Thom Tillis",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Toomey",
+    "party": "R"
+  },
+  {
+    "handle": "Sen Tuberville",
+    "party": "R"
+  },
+  {
+    "handle": "Chris Van Hollen",
+    "party": "D"
+  },
+  {
+    "handle": "Mark Warner",
+    "party": "D"
+  },
+  {
+    "handle": "Senator Warnock",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Warren",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Whitehouse",
+    "party": "D"
+  },
+  {
+    "handle": "Senator Wicker",
+    "party": "R"
+  },
+  {
+    "handle": "Ron Wyden",
+    "party": "D"
+  },
+  {
+    "handle": "Sen Todd Young",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Adams",
+    "party": "D"
+  },
+  {
+    "handle": "Robert Aderholt",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Pete Aguilar",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Rick Allen",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Colin Allred",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Armstrong N D",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Arrington",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Auchincloss",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Cindy Axne",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Brian Babin",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Don Bacon",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Jim Baird",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Balderson",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Jim Banks",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Andy Barr",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Barragan",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Karen Bass",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Beatty",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Bera",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Don Beyer",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Bice",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Andy Biggs A Z",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Gus Bilirakis",
+    "party": "R"
+  },
+  {
+    "handle": "Sanford Bishop",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Dan Bishop",
+    "party": "R"
+  },
+  {
+    "handle": "Rep L B R",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Boebert",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Bonamici",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Bost",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Bourdeaux",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Bowman",
+    "party": "D"
+  },
+  {
+    "handle": "Cong Boyle",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Kevin Brady",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Mo Brooks",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Anthony Brown",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Shontel Brown",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Brownley",
+    "party": "D"
+  },
+  {
+    "handle": "Vern Buchanan",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Ken Buck",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Larry Bucshon",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Ted Budd",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Tim Burchett",
+    "party": "R"
+  },
+  {
+    "handle": "Michael C Burgess",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Cori",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Cheri",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Kat Cammack",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Carbajal",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Cardenas",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Mike Carey",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Jerry Carl",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Andre Carson",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Buddy Carter",
+    "party": "R"
+  },
+  {
+    "handle": "Judge Carter",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Troy Carter",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Ed Case",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Casten",
+    "party": "D"
+  },
+  {
+    "handle": "U S Rep K Castor",
+    "party": "D"
+  },
+  {
+    "handle": "Joaquin Castrotx",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Cawthorn",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Steve Chabot",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Liz Cheney",
+    "party": "R"
+  },
+  {
+    "handle": "Sheila Cherfilus-McCormick",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Judy Chu",
+    "party": "D"
+  },
+  {
+    "handle": "Rep K Clark",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Yvette Clarke",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Cleaver",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Ben Cline",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Cloud T X",
+    "party": "R"
+  },
+  {
+    "handle": "Whip Clyburn",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Clyde",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Cohen",
+    "party": "D"
+  },
+  {
+    "handle": "Tom Cole O K",
+    "party": "R"
+  },
+  {
+    "handle": "Rep James Comer",
+    "party": "R"
+  },
+  {
+    "handle": "Gerry Connolly",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Lou Correa",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Jim Costa",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Joe Courtney",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Angie Craig",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Charlie Crist",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Jason Crow",
+    "party": "D"
+  },
+  {
+    "handle": "Rep John Curtis",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Davids",
+    "party": "D"
+  },
+  {
+    "handle": "Warren Davidson",
+    "party": "R"
+  },
+  {
+    "handle": "Rodney Davis",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Dean",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Peter De Fazio",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Diana De Gette",
+    "party": "D"
+  },
+  {
+    "handle": "Rosa Delauro",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Del Bene",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Delgado",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Val Demings",
+    "party": "D"
+  },
+  {
+    "handle": "Rep De Saulnier",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Ted Deutch",
+    "party": "D"
+  },
+  {
+    "handle": "Mario D B",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Deb Dingell",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Lloyd Doggett",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Donalds Press",
+    "party": "R"
+  },
+  {
+    "handle": "U S Rep Mike Doyle",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Jeff Duncan",
+    "party": "R"
+  },
+  {
+    "handle": "Dr Neal Dunn F L",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Tom Emmer",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Escobar",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Anna Eshoo",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Espaillat",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Ron Estes",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Dwight Evans",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Pat Fallon",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Feenstra",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Drew Ferguson",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Fischbach",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Brian Fitz",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Chuck",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Fletcher",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Bill Foster",
+    "party": "D"
+  },
+  {
+    "handle": "Virginia Foxx",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Lois Frankel",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Franklin",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Russ Fulcher",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Matt Gaetz",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Gallagher",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Ruben Gallego",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Garamendi",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Garbarino",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Chuy Garcia",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Mike Garcia",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Sylvia Garcia",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Bob Gibbs",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Carlos",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Louie Gohmert",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Golden",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Jimmy Gomez",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Tony Gonzales",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Jenniffer",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Gonzalez",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Bob Good",
+    "party": "R"
+  },
+  {
+    "handle": "Lance Gooden",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Gosar",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Josh G",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Kay Granger",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Garret Graves",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Al Green",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Mark Green",
+    "party": "R"
+  },
+  {
+    "handle": "Rep M T G",
+    "party": "R"
+  },
+  {
+    "handle": "Rep M Griffith",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Raul Grijalva",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Grothman",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Michael Guest",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Guthrie",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Josh Harder",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Harshbarger",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Hartzler",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Jahana Hayes",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Kevin Hern",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Herrell",
+    "party": "R"
+  },
+  {
+    "handle": "Congressman Hice",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Brian Higgins",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Clay Higgins",
+    "party": "R"
+  },
+  {
+    "handle": "Rep French Hill",
+    "party": "R"
+  },
+  {
+    "handle": "Jim Himes",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Ashley Hinson",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Horsford",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Houlahan",
+    "party": "D"
+  },
+  {
+    "handle": "Leader Hoyer",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Rich Hudson",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Huffman",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Huizenga",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Darrell Issa",
+    "party": "R"
+  },
+  {
+    "handle": "Jackson Lee T X",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Ronny Jackson",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Jacobs",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Sara Jacobs",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Jayapal",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Jeffries",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Bill Johnson",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Dusty Johnson",
+    "party": "R"
+  },
+  {
+    "handle": "Rep E B J",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Hank Johnson",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Mike Johnson",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Mondaire",
+    "party": "D"
+  },
+  {
+    "handle": "Jim Jordan",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Dave Joyce",
+    "party": "R"
+  },
+  {
+    "handle": "Rep John Joyce",
+    "party": "R"
+  },
+  {
+    "handle": "Rep John Katko",
+    "party": "R"
+  },
+  {
+    "handle": "U S Rep Keating",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Fred Keller",
+    "party": "R"
+  },
+  {
+    "handle": "Mike Kelly P A",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Robin Kelly",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Ro Khanna",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Dan Kildee",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Derek Kilmer",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Andy Kim N J",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Young Kim",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Ron Kind",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Kirkpatrick",
+    "party": "D"
+  },
+  {
+    "handle": "Congressman Raja",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Annie Kuster",
+    "party": "D"
+  },
+  {
+    "handle": "Rep David Kustoff",
+    "party": "R"
+  },
+  {
+    "handle": "Rep La Hood",
+    "party": "R"
+  },
+  {
+    "handle": "Rep La Malfa",
+    "party": "R"
+  },
+  {
+    "handle": "Jim Langevin",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Rick Larsen",
+    "party": "D"
+  },
+  {
+    "handle": "Rep John Larson",
+    "party": "D"
+  },
+  {
+    "handle": "Bob Latta",
+    "party": "R"
+  },
+  {
+    "handle": "Rep La Turner",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Lawrence",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Al Lawson Jr",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Barbara Lee",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Susie Lee",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Teresa L F",
+    "party": "D"
+  },
+  {
+    "handle": "Rep D Lesko",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Julia Letlow",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Andy Levin",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Mike Levin",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Ted Lieu",
+    "party": "D"
+  },
+  {
+    "handle": "U S Rep Long",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Loudermilk",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Lowenthal",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Frank Lucas",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Blaine",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Elaine Luria",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Nancy Mace",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Malinowski",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Malliotakis",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Maloney",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Sean Maloney",
+    "party": "D"
+  },
+  {
+    "handle": "Rep K Manning",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Thomas Massie",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Brian Mast",
+    "party": "R"
+  },
+  {
+    "handle": "Doris Matsui",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Lucy Mc Bath",
+    "party": "D"
+  },
+  {
+    "handle": "G O P Leader",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Mc Caul",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Lisa Mc Clain",
+    "party": "R"
+  },
+  {
+    "handle": "Betty Mc Collum",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Mc Eachin",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Mc Govern",
+    "party": "D"
+  },
+  {
+    "handle": "Patrick Mc Henry",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Mc Kinley",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Gregory Meeks",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Meijer",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Grace Meng",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Meuser",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Kweisi Mfume",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Mariannette Miller-Meeks",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Carol Miller",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Mary Miller",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Alex Mooney",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Barry Moore",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Blake Moore",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Gwen Moore",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Joe Morelle",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Mullin",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Greg Murphy",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Steph Murphy",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Jerry Nadler",
+    "party": "D"
+  },
+  {
+    "handle": "Grace Napolitano",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Richard Neal",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Joe Neguse",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Troy Nehls",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Newhouse",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Marie Newman",
+    "party": ""
+  },
+  {
+    "handle": "Donald Norcross",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Ralph Norman",
+    "party": "R"
+  },
+  {
+    "handle": "Eleanor Norton",
+    "party": "D"
+  },
+  {
+    "handle": "Rep O Halleran",
+    "party": "D"
+  },
+  {
+    "handle": "Jay Obernolte",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Ilhan Omar",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Burgess Owens",
+    "party": "R"
+  },
+  {
+    "handle": "Cong Palazzo",
+    "party": "R"
+  },
+  {
+    "handle": "Frank Pallone",
+    "party": "D"
+  },
+  {
+    "handle": "U S Rep Gary Palmer",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Jimmy Panetta",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Chris Pappas",
+    "party": "D"
+  },
+  {
+    "handle": "Bill Pascrell",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Donald Payne",
+    "party": "D"
+  },
+  {
+    "handle": "Speaker Pelosi",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Perlmutter",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Scott Peters",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Pfluger",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Dean Phillips",
+    "party": "D"
+  },
+  {
+    "handle": "Chellie Pingree",
+    "party": "D"
+  },
+  {
+    "handle": "Stacey Plaskett",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Mark Pocan",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Katie Porter",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Pressley",
+    "party": "D"
+  },
+  {
+    "handle": "Rep David E Price",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Mike Quigley",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Raskin",
+    "party": "D"
+  },
+  {
+    "handle": "G Reschenthaler",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Kathleen Rice",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Tom Rice",
+    "party": "R"
+  },
+  {
+    "handle": "Cathy Mcmorris",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Mike Rogers A L",
+    "party": "R"
+  },
+  {
+    "handle": "Rep John Rose",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Rosendale",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Deborah Ross",
+    "party": "D"
+  },
+  {
+    "handle": "Rep David Rouzer",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Chip Roy",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Roybal Allard",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Raul Ruiz M D",
+    "party": "D"
+  },
+  {
+    "handle": "Call Me Dutch",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Bobby Rush",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Tim Ryan",
+    "party": "D"
+  },
+  {
+    "handle": "Kilili Sablan",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Maria Salazar",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Linda Sanchez",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Sarbanes",
+    "party": "D"
+  },
+  {
+    "handle": "Steve Scalise",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Mary Gay Scanlon",
+    "party": "D"
+  },
+  {
+    "handle": "Jan Schakowsky",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Adam Schiff",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Schneider",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Schrader",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Kim Schrier",
+    "party": "D"
+  },
+  {
+    "handle": "Rep David Schweikert",
+    "party": "R"
+  },
+  {
+    "handle": "Austin Scott G A",
+    "party": "R"
+  },
+  {
+    "handle": "Bobby Scott",
+    "party": "D"
+  },
+  {
+    "handle": "Pete Sessions",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Terri Sewell",
+    "party": "D"
+  },
+  {
+    "handle": "Brad Sherman",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Sherrill",
+    "party": "D"
+  },
+  {
+    "handle": "Cong Mike Simpson",
+    "party": ""
+  },
+  {
+    "handle": "Rep Sires",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Slotkin",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Adam Smith",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Adrian Smith",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Jason Smith",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Smucker",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Darren Soto",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Spanberger",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Spartz",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Speier",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Stansbury",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Greg Stanton",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Pete Stauber",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Steel",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Stefanik",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Bryan Steil",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Greg Steube",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Haley Stevens",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Chris Stewart",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Strickland W A",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Tom Suozzi",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Swalwell",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Mark Takano",
+    "party": "D"
+  },
+  {
+    "handle": "Claudia Tenney",
+    "party": "R"
+  },
+  {
+    "handle": "Bennie G Thompson",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Thompson",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Tiffany",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Timmons",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Dina Titus",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Rashida",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Paul Tonko",
+    "party": "D"
+  },
+  {
+    "handle": "Norma J Torres",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Ritchie",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Lori Trahan",
+    "party": "D"
+  },
+  {
+    "handle": "Rep David Trone",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Mike Turner",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Underwood",
+    "party": "D"
+  },
+  {
+    "handle": "Rep David Valadao",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Beth Van Duyne",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Juan Vargas",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Veasey",
+    "party": "D"
+  },
+  {
+    "handle": "Nydia Velazquez",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Ann Wagner",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Walberg",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Walorski",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Michael Waltz",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Debbie Wasserman Schultz",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Bonnie",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Webster",
+    "party": "R"
+  },
+  {
+    "handle": "Peter Welch",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Westerman",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Wexton",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Susan Wild",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Nikema",
+    "party": "D"
+  },
+  {
+    "handle": "Rep R Williams",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Wilson",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Joe Wilson",
+    "party": "R"
+  },
+  {
+    "handle": "Rob Wittman",
+    "party": "R"
+  },
+  {
+    "handle": "Rep Steve Womack",
+    "party": "R"
+  },
+  {
+    "handle": "Rep John Yarmuth",
+    "party": "D"
+  },
+  {
+    "handle": "Rep Lee Zeldin",
+    "party": "R"
+  }
+]

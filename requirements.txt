@@ -5,3 +5,5 @@ tweepy
 vader
 scipy
 seaborn
+selenium
+chromedriver_autoinstaller
