@@ -1,0 +1,7 @@
+networkx
+matplotlib
+numpy
+tweepy
+vader
+scipy
+seaborn
