@@ -7,3 +7,4 @@ scipy
 seaborn
 selenium
 chromedriver_autoinstaller
+netgraph
